@@ -1,0 +1,1482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="VbVwZ8rJZFtCKBv7erQZLYNGMWzVjfABrohVdfVg">
+    <link rel="shortcut icon" href="/img/search-tn.png" type="image/png">
+
+                <title>Tengrinews.kz - the main news portal of Kazakhstan</title>
+        <meta name="Description" content="Tengrinews.kz - a round-the-clock news feed. Latest news from Kazakhstan, Russia and the world about business, economics, incidents, sports">
+    
+    <link href="https://en.tengrinews.kz/" rel="canonical">
+    <link href="https://en.tengrinews.kz/amp/" rel="amphtml">
+    <link rel="alternate" hreflang="ru" href="https://tengrinews.kz/" />
+    <link rel="alternate" hreflang="kk" href="https://kaz.tengrinews.kz/" />
+    <link rel="alternate" hreflang="en" href="https://en.tengrinews.kz/" />
+    <script>
+        var _url = location.href;
+        window.pushData = {
+            page_url: _url,
+            page_url_canonical: "http://en.tengrinews.kz/",
+            page_title: document.title,
+            page_type: "main",
+            page_language: 'en',
+        };
+
+        window._io_config = window._io_config || {};
+        window._io_config['0.2.0'] = window._io_config['0.2.0'] || [];
+        window._io_config['0.2.0'].push(window.pushData);
+    </script>
+
+                        <link rel="stylesheet" href="/css/core-fonts.css?v=219">
+        <link rel="stylesheet" href="/css/core.css?v=219">
+        <link rel="stylesheet" href="/css/banner.css?v=219">
+    
+    <link rel="stylesheet" href="/css/branding.css?v=219">
+    <script async src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+    <script>
+        var adfoxBiddersMap = {
+            "adfox_dsail-Minsk": "1210819"
+        };
+        var adUnits = [
+            {
+                "codeType": "inpage",
+                "code": "adfox_15640321474266268",
+                "bids": [
+                    {
+                        "bidder": "adfox_dsail-Minsk",
+                        "params": {
+                            "p1": "chxiv",
+                            "p2": "foun",
+                            "puid1": "",
+                            "slide": true,
+                            "visibleAfterInit": true,
+                            "insertAfter": "undefined",
+                            "insertPosition": "0",
+                            "stick": false,
+                            "stickTo": "auto",
+                            "stickyColorScheme": "light"
+                        }
+                    }
+                ]
+            }
+        ];
+        var userTimeout = 500;
+        window.YaHeaderBiddingSettings = {
+            biddersMap: adfoxBiddersMap,
+            adUnits: adUnits,
+            timeout: userTimeout
+        };
+    </script>
+    <script>
+        (function () {
+            let them_switcher = [];
+            window.ChangeTheme = function () {
+                let theme = localStorage.getItem('theme');
+                let root = document.querySelector('html');
+                let img = document.querySelectorAll('.tn-logo img');
+
+
+                if (theme === 'dark') {
+
+                    root.style.setProperty('--background', '#171717');
+                    root.style.setProperty('--background_secondary', '#000000');
+                    root.style.setProperty('--white', '#2C2C2C');
+                    root.style.setProperty('--gray', '#FDFDFD ');
+                    root.style.setProperty('--gray_1', '#FDFDFD ');
+                    root.style.setProperty('--font-white', '#FFFFFF');
+                    root.style.setProperty('--font-black', '#FFFFFF');
+                    root.style.setProperty('--gray_2', '#8B8B8B');
+                    root.style.setProperty('--gray_3', '#8B8B8B');
+                    root.style.setProperty('--gray_8', 'rgba(212, 212, 212, 0.5)');
+                    root.style.setProperty('--tape-tn-data-list', '#575757');
+                    root.style.setProperty('--white_4', '#171717');
+                    root.style.setProperty('--black', '#FFFFFF');
+                    root.style.setProperty('--black_1', '#FFFFFF');
+                    root.style.setProperty('--black_2', 'rgba(255,255,255,0.1)');
+                    root.style.setProperty('--black_5', 'rgba(255,255,255,0.2)');
+                    root.style.setProperty('--black_6', 'rgba(255,255,255,0.6)');
+                    root.style.setProperty('--yellow', '#634903');
+                    root.style.setProperty('--mix-tag-color', '#FFFFFF');
+                    root.style.setProperty('--white_5', 'var(--white)');
+                    root.style.setProperty('--check-color', '#525252');
+                    root.style.setProperty('--mix-tn-data-list', 'rgba(255, 255, 255, 0.4)');
+
+                    root.style.setProperty('--tn-icon-vk', "url('/img/vk-light.svg')");
+                    root.style.setProperty('--tn-icon-fb', "url('/img/fb-light.svg')");
+                    root.style.setProperty('--tn-icon-tw', "url('/img/tw-light.svg')");
+                    root.style.setProperty('--tn-icon-instagram', "url('/img/instagram-light.svg')");
+                    root.style.setProperty('--tn-icon-mail', "url('/img/mail-light.svg')");
+                    root.style.setProperty('--tn-icon-ok', "url('/img/ok-light.svg')");
+                    root.style.setProperty('--tn-icon-tg', "url('/img/tg-light.svg')");
+                    root.style.setProperty('--mix-eye', "url('/img/eye-light.svg')");
+                    root.style.setProperty('--mix-comment', "url('/img/comment-light.svg')");
+                    root.style.setProperty('--eye', "url('/img/eye-light_1.svg')");
+                    root.style.setProperty('--comment', "url('/img/comment-light_1.svg')");
+                    root.style.setProperty('--arrow-down-dark', "url('/img/Vector_6.svg')");
+                    root.style.setProperty('--select-arrow', "url('/img/select-arrow-light.svg')");
+                    root.style.setProperty('--icon-menu', "url('/img/menu-light.svg')");
+                    root.style.setProperty('--icon-menu-close', "url('/img/icon-close-light.svg')");
+                    root.style.setProperty('--search-icon', "url('/img/search-light.svg')");
+
+
+                    img.forEach(function (i) {
+                        i.src = '/img/tn-logo-dark.png';
+                    });
+
+                } else {
+
+                    root.style.setProperty('--background', '#f2f4f5');
+                    root.style.setProperty('--background_secondary', '#757575');
+                    root.style.setProperty('--white', '#ffffff');
+                    root.style.setProperty('--gray', '#2f2f2f');
+                    root.style.setProperty('--gray_1', '#2b2b2b');
+                    root.style.setProperty('--font-white', '#FFFFFF');
+                    root.style.setProperty('--font-black', '#000000');
+                    root.style.setProperty('--gray_2', '#575757');
+                    root.style.setProperty('--gray_3', '#757575');
+                    root.style.setProperty('--gray_8', 'rgba(43, 43, 43, 0.5)');
+                    root.style.setProperty('--tape-tn-data-list', '#575757');
+                    root.style.setProperty('--white_4', '#dfecdd');
+                    root.style.setProperty('--black', '#000000');
+                    root.style.setProperty('--black_1', '#1b1b1b');
+                    root.style.setProperty('--black_5', 'rgba(0,0,0,0.2)');
+                    root.style.setProperty('--yellow', '#fbca4a');
+                    root.style.setProperty('--mix-tag-color', 'var(--gray_4)');
+                    root.style.setProperty('--white_5', '#eaeaeb');
+                    root.style.setProperty('--check-color', '#FFFFFF');
+                    root.style.setProperty('--mix-tn-data-list', '#575757');
+                    root.style.setProperty('--black_2', 'rgba(0,0,0,0.1)');
+                    root.style.setProperty('--black_6', 'rgba(0,0,0,0.6)');
+
+                    root.style.setProperty('--tn-icon-vk', "url('/img/vk.svg')");
+                    root.style.setProperty('--tn-icon-fb', "url('/img/fb.svg')");
+                    root.style.setProperty('--tn-icon-tw', "url('/img/tw.svg')");
+                    root.style.setProperty('--tn-icon-instagram', "url('/img/instagram.svg')");
+                    root.style.setProperty('--tn-icon-mail', "url('/img/mail.svg')");
+                    root.style.setProperty('--tn-icon-ok', "url('/img/ok.svg')");
+                    root.style.setProperty('--tn-icon-tg', "url('/img/tg.svg')");
+                    root.style.setProperty('--mix-eye', "url('/img/eye-dark.svg')");
+                    root.style.setProperty('--mix-comment', "url('/img/comment-dark.svg')");
+                    root.style.setProperty('--eye', "url('/img/eye-dark.svg')");
+                    root.style.setProperty('--comment', "url('/img/comment-dark.svg')");
+                    root.style.setProperty('--arrow-down-dark', "url('/img/Vector_5.svg')");
+                    root.style.setProperty('--select-arrow', "url('/img/select-arrow.svg')");
+                    root.style.setProperty('--icon-menu', "url('/img/menu.svg')");
+                    root.style.setProperty('--icon-menu-close', "url('/img/icon-close.svg')");
+                    root.style.setProperty('--search-icon', "url('/img/search.svg')");
+
+
+                    img.forEach(function (i) {
+                        i.src = '/img/tn-logo.png';
+                    });
+
+                }
+            };
+            window.ChangeTheme();
+            setTimeout(() => {
+                window.ChangeTheme();
+            }, 100);
+            window.addEventListener('load', function () {
+                them_switcher = document.querySelectorAll('[tn-switch-them]');
+
+                let theme = localStorage.getItem('theme');
+                them_switcher.forEach(function (light_dark) {
+                    if (theme === 'dark') {
+                        light_dark.checked = true;
+                    } else {
+                        light_dark.checked = false;
+                    }
+                });
+
+                them_switcher.forEach(function (i) {
+                    i.addEventListener('click', function () {
+                        let theme = localStorage.getItem('theme');
+                        if (theme === 'dark') {
+                            localStorage.setItem('theme', 'light');
+                        } else {
+                            localStorage.setItem('theme', 'dark');
+                        }
+                        window.ChangeTheme();
+                    });
+                });
+            });
+
+
+        })();
+    </script>
+</head>
+<body>
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-M5CNVG"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M5CNVG');</script>
+<!-- End Google Tag Manager -->
+<div id="top"></div>
+<div class="my-app">
+    <div style="position: fixed; z-index: 25;">
+    <tn-control-link-component></tn-control-link-component>
+</div>
+<header>
+    <nav class="tn-container tn-visible@t">
+        <div class="tn-menu-fixed">
+            <div class="tn-nav-item tn-background-secondary">
+                <div class="tn-nav-flip-left">
+                    <ul class="tn-special-project-list">
+                                                <li><a target="_blank" href="https://tengrinews.kz/zakon/">Laws of Kazakhstan</a>
+                        </li>
+                                            </ul>
+                </div>
+                <div class="tn-nav-flip-right">
+                    <ul class="tn-course-list">
+    <li class="tn-course-list-header">
+        Exchange Rates
+    </li>
+                    <li>
+            <span>
+                <i class="tn-icon-dollar-white tn-hidden@m"></i>
+                <i class="tn-icon-dollar tn-visible@m"></i>
+                435.73
+                                <i class="tn-icon-arrow-up-green"></i>            </span>
+        </li>
+                    <li>
+            <span>
+                <i class="tn-icon-euro-white tn-hidden@m"></i>
+                <i class="tn-icon-euro tn-visible@m"></i>
+                455.9
+                                            </span>
+        </li>
+                    <li>
+            <span>
+                <i class="tn-icon-ruble-white tn-hidden@m"></i>
+                <i class="tn-icon-ruble tn-visible@m"></i>
+                5.5
+                                <i class="tn-icon-arrow-up-green"></i>            </span>
+        </li>
+    </ul>                </div>
+            </div>
+            <div class="tn-nav-item">
+                <a href="/" class="tn-logo"><img src="/img/tn-logo.png" alt="TengriNews.kz"></a>
+                <div class="tn-adult-block"></div>
+                <ul class="tn-type-materials">
+                    <li class=""><a
+                                href="/find-out/">Learn</a></li>
+                    <li class=""><a
+                                href="/read/">Read</a>
+                    </li>
+                    <li class=""><a
+                                href="/take-look/">Take look</a></li>
+                </ul>
+
+                                <tn-weather-component></tn-weather-component>
+                                <div class="tn-language-switcher">
+                                                        </div>
+                <span tn-toggle-search="" class="tn-icon-search"></span>
+                <a href="/" data-href="https://api.whatsapp.com/send?phone=77770014499&text=%20" class="tn-subscribe-whatsapp">
+                    SEND YOUR NEWS TO US
+                    <span>
+                WhatsApp +7 (777) 001 44 99
+                </span>
+                </a>
+            </div>
+            <div class="tn-search-menu" tn-search-menu="">
+                <div class="tn-inline tn-input-search">
+                    <span class="tn-icon-search"></span>
+                    <input type="search" tn-search-text="">
+                    <div class="tn-flip-left">
+                        <span tn-clear-search="" class="tn-icon-clear"></span>
+                        <div tn-search-submit="" class="tn-button tn-button-default">Search</div>
+                    </div>
+                </div>
+            </div>
+                                </div>
+    </nav>
+    <nav class="tn-container tn-menu-mobile tn-hidden@t">
+        <div class="tn-top-menu">
+            <div class="tn-top-menu-container">
+                <a href="/" class="tn-logo"><img src="/img/tn-logo.png" alt="TengriNews.kz"></a>
+                <div class="tn-adult-block"></div>
+                <span class="tn-menu-mobile-button">
+                    <i class="tn-icon-menu">
+                        <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect width="24" height="2" fill="var(--black)"/>
+                            <rect y="7" width="24" height="2" fill="var(--black)"/>
+                            <rect y="14" width="24" height="2" fill="var(--black)"/>
+                        </svg>
+                    </i>
+                    <i class="tn-icon-menu-close">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect x="2.2218" y="0.807617" width="24" height="2" transform="rotate(45 2.2218 0.807617)"
+                                  fill="var(--black)"/>
+                            <rect x="0.807617" y="17.7781" width="24" height="2"
+                                  transform="rotate(-45 0.807617 17.7781)" fill="var(--black)"/>
+                        </svg>
+                    </i>
+                </span>
+            </div>
+            <div class="tn-type-materials-container">
+                <ul class="tn-type-materials">
+                    <li class=""><a
+                                href="/find-out/">Learn</a></li>
+                    <li class=""><a
+                                href="/read/">Read</a>
+                    </li>
+                    <li class=""><a
+                                href="/take-look/">Take look</a></li>
+                </ul>
+                <div class="tablet-menu-widget">
+                    <tn-weather-component></tn-weather-component>
+                    <div class="tn-language-switcher">
+                                                                    </div>
+                    <span tn-toggle-search="" class="tn-icon-search"></span>
+                </div>
+            </div>
+        </div>
+                    </nav>
+    <div id="tn-mobile-menu" class="tn-offcanvas-bar">
+        <div class="tn-container">
+            <div class="tn-inline tn-search-input">
+                <i class="tn-icon-search"></i>
+                <input tn-search-text="" type="text" placeholder="Search">
+                <div id="tn-theme-mobile" class="onoffswitch" style="display: inline-block;">
+                    <input tn-switch-them="" type="checkbox" class="onoffswitch-checkbox" name="tn-theme" checked=""
+                           id="tn-theme-mobile-ch">
+                    <label class="onoffswitch-label" for="tn-theme-mobile-ch"></label>
+                </div>
+            </div>
+            <ul class="tn-nav tn-nav-default tn-nav-parent-icon">
+                <li class="tn-parent">
+                    <span>Спецпроекты</span>
+                    <ul class="tn-nav-sub">
+                        <li><a target="_blank" href="https://mix.tn.kz/">TengriMix</a></li>
+                        <li><a target="_blank" href="https://tengrinews.kz/tv/">TengriTV</a></li>
+                        <li><a target="_blank" href="https://tengritravel.kz/">TengriTravel</a></li>
+                        <li><a target="_blank" href="https://tengrinews.kz/pobediteli/">Победители</a></li>
+                        <li><a target="_blank" href="https://tengrinews.kz/zakon/">Laws of Kazakhstan</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="tn-parent">
+                    <span>Weather forecast</span>
+                                    </li>
+                <li class="tn-parent">
+                    <ul class="tn-course-list">
+    <li class="tn-course-list-header">
+        Exchange Rates
+    </li>
+                    <li>
+            <span>
+                <i class="tn-icon-dollar-white tn-hidden@m"></i>
+                <i class="tn-icon-dollar tn-visible@m"></i>
+                435.73
+                                <i class="tn-icon-arrow-up-green"></i>            </span>
+        </li>
+                    <li>
+            <span>
+                <i class="tn-icon-euro-white tn-hidden@m"></i>
+                <i class="tn-icon-euro tn-visible@m"></i>
+                455.9
+                                            </span>
+        </li>
+                    <li>
+            <span>
+                <i class="tn-icon-ruble-white tn-hidden@m"></i>
+                <i class="tn-icon-ruble tn-visible@m"></i>
+                5.5
+                                <i class="tn-icon-arrow-up-green"></i>            </span>
+        </li>
+    </ul>                </li>
+                <li>
+                                                        </li>
+                <li>
+                    <a href="/" data-href="https://api.whatsapp.com/send?phone=77770014499&text=%20" class="tn-subscribe-whatsapp">
+                        SEND YOUR NEWS TO US
+                        <span>
+                WhatsApp +7 (777) 001 44 99
+                </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div class="tn-sub-container">
+    <tn-top-banner-component></tn-top-banner-component>
+
+</div>    <main>
+            <h1 class="tn-hidden">
+        Tengrinews.kz - the main news portal of Kazakhstan
+    </h1>
+    <section class="tn-main-section tn-container">
+    <div class="tn-main-news-container tn-sub-container">
+        <div class="tn-main-news-grid ">
+            
+                                                                                                            <div class="tn-main-news-item firs-column tn-three-column tn-background-cover"
+                         style="background:linear-gradient(360deg, #000000 0%, rgba(0, 0, 0, 0) 50%), url('/userdata/gallery_en/2014/gallery_590/thumb_xb/photo_11562.jpg') no-repeat center center/cover">
+                        <span class="tn-main-news-title">Melody of Tengri</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>28 ноября 2014, 12:23</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'590'" :type="'gallery'"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                            <li><span><i class="tn-icon-comment"></i>1</span></li>
+                        </ul>
+                        <a href="/fotoarchive/melody-of-tengri-590/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+                    </div>
+                                                                            <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/userdata/gallery_en/2014/gallery_585/thumb_xms/photo_11232.jpg"
+                                 alt="On the way to the East...  ©Vladimir Prokopenko">
+                        </div>
+                        <span class="tn-main-news-title">In the footsteps of great Central Asian explorer</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>02 сентября 2014, 18:12</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'585'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                            <li>
+                                    <span><i class="tn-icon-comment-dark"></i><span>1</span></span>
+                                </li>
+                                                    </ul>
+                        <a href="/fotoarchive/in-the-footsteps-of-great-central-asian-explorer-585/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                                                <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/userdata/gallery_en/2014/gallery_582/thumb_xms/photo_11125.jpg"
+                                 alt="©Dmitriy Khegai">
+                        </div>
+                        <span class="tn-main-news-title">Consequences of mud flood near Almaty</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>20 августа 2014, 08:16</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'582'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                    </ul>
+                        <a href="/fotoarchive/consequences-of-mud-flood-near-almaty-582/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                                                <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/img/stub.jpg"
+                                 alt="Malaysian Boeing crash site in Ukraine">
+                        </div>
+                        <span class="tn-main-news-title">Malaysian Boeing crash site in Ukraine</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>30 июля 2014, 18:38</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'583'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                    </ul>
+                        <a href="/fotoarchive/malaysian-boeing-crash-site-in-ukraine-583/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                                                <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/userdata/gallery_en/2014/gallery_573/thumb_xms/photo_10642.jpg"
+                                 alt="Mazar Kozy-Korpesh and Bayan Sulu, 10-11th centuries AD. Ayagoz district. East Kazakhstan Oblast, in eastern Kazakhstan.
+
+In Islam, Mazar (shrine) is the tomb of a saint man.
+
+It is one of the Kazakh ancient monuments which is extant today. 
+
+Kozy-Korpesh and Bayan Sulu is one of the Kazakh most popular lyric poems. The image of these folklore heroes is the symbol of the eternal love between young man and girl, Kazakh version of Romeo and Juliet.">
+                        </div>
+                        <span class="tn-main-news-title">My Kazakhstan photo exhibition</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>30 мая 2014, 14:00</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'573'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                    </ul>
+                        <a href="/fotoarchive/my-kazakhstan-photo-exhibition-573/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                                                <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/userdata/gallery_en/2014/gallery_554/thumb_xms/photo_10212.jpg"
+                                 alt="©Nurgisa Yeleubekov">
+                        </div>
+                        <span class="tn-main-news-title">Kazakh village life</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>20 мая 2014, 14:42</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'554'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                            <li>
+                                    <span><i class="tn-icon-comment-dark"></i><span>1</span></span>
+                                </li>
+                                                    </ul>
+                        <a href="/fotoarchive/kazakh-village-life-554/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                                                <div class="tn-main-news-item">
+                        <div class="tn-image-container">
+                            <img src="/userdata/gallery_en/2014/gallery_570/thumb_xms/photo_10498.jpg"
+                                 alt="Hydrogen-fueled Honda FCEV might become a basis for the new car that the Japanese automaker is planning to present in 2015. ©REUTERS">
+                        </div>
+                        <span class="tn-main-news-title">Geneva Motor Show 2014</span>
+                        <ul class="tn-data-list">
+                            <li>
+                            <span>
+                                <time>22 марта 2014, 16:13</time>
+                            </span>
+                            </li>
+                            <li>
+                                <view-show-component :id="'570'"
+                                                     :type="'gallery'"
+                                                     :dark="true"
+                                                     :lang="'en'"></view-show-component>
+                            </li>
+                                                    </ul>
+                        <a href="/fotoarchive/geneva-motor-show-2014-570/" class="tn-link"><span
+                                    class="tn-hidden">Melody of Tengri</span></a>
+
+                    </div>
+                                    </div>
+        <div class="tn-tape-container">
+            <div class="tn-main-news-item banner">
+                <tn-left-240x400-1-component :id="'main'"></tn-left-240x400-1-component>
+                
+            </div>
+            <div class="tn-tape-header tn-hidden@m">
+                <div id="all_news" class="tn-button tn-active">site.all_news</div>
+                <div id="popular_news" class="tn-button">site.popular</div>
+            </div>
+            <div class="tn-tape-header tn-visible@m">
+                <div class="onoffswitch">
+                    <input type="checkbox" id="top_news" class="onoffswitch-checkbox">
+                    <label for="top_news" class="onoffswitch-label"></label></div>
+                <label for="top_news" class="top_news">site.popular</label>
+            </div>
+            <div tn-main-tape-grid="" class="tn-tape-grid">
+                <div class="tn-all_news tn-active">
+                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/nobel-prizewinner-proposes-a-new-city-in-kz-263494/" class="tn-tape-title">Nobel prizewinner proposes a new city in KZ</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>25 ноября 2016, 20:19</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263494'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/kazakhstan_news/new-abnormal-snowfalls-expected-in-kazakhstan-263493/" class="tn-tape-title">New abnormal snowfalls expected in Kazakhstan</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>25 ноября 2016, 15:12</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263493'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/environment/huge-glacier-retreat-triggered-in-1940s-263491/" class="tn-tape-title">Huge glacier retreat triggered in 1940s</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>25 ноября 2016, 00:00</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263491'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/hyperloop-construction-begins-in-las-vegas-263490/" class="tn-tape-title">Hyperloop construction begins in Las Vegas</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>24 ноября 2016, 20:43</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263490'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <div class="tn-tape-item-image">
+
+
+
+
+
+
+            <img src="/userdata/news_en/2016/news_263492/thumb_xn/photo_52740.jpg" alt="">
+
+    </div>
+    <a href="/politics_sub/nazarbayev-answered-a-question-about-his-successor-263492/" class="tn-tape-title">Nazarbayev answered a question about his successor</a>
+    <ul class="tn-data-list">
+        <li><span><time>24 ноября 2016, 16:31</time></span></li>
+        <li>
+            <view-show-component :id="'263492'" :type="'news'" :dark="true"
+                                 :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/china-ready-to-play-leading-role-in-asia-pacific-263489/" class="tn-tape-title">China ready to play leading role in Asia-Pacific</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>24 ноября 2016, 12:58</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263489'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/cinema_and_music/moonlight-to-top-spirit-awards-nominations-263486/" class="tn-tape-title">&quot;Moonlight&quot; to top Spirit Awards nominations</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>23 ноября 2016, 20:35</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263486'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/markets/oil-prices-fall-due-to-investors-uncertainty-263488/" class="tn-tape-title">Oil prices fall due to investors uncertainty</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>23 ноября 2016, 17:45</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263488'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/laws_initiatives/mp-suggests-renaming-the-capital-after-nazarbayev-263487/" class="tn-tape-title">MP suggests renaming the capital after Nazarbayev</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>23 ноября 2016, 14:12</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263487'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/companies/lufthansa-cancels-876-flights-over-pilot-strike-263485/" class="tn-tape-title">Lufthansa cancels 876 flights over pilot strike</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>23 ноября 2016, 11:22</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263485'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/new-dwarf-galaxy-discovered-around-milky-way-263484/" class="tn-tape-title">New dwarf galaxy discovered around Milky Way</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>22 ноября 2016, 20:31</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263484'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/china-to-turn-chernobyl-into-solar-power-plant-263483/" class="tn-tape-title">China to turn Chernobyl into solar power plant</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>22 ноября 2016, 18:17</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263483'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/sport/kanat-islam-becomes-a-top-ten-wbo-boxer-263482/" class="tn-tape-title">Kanat Islam becomes a top ten WBO boxer</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>22 ноября 2016, 15:46</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263482'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/markets/world-oil-prices-continue-to-rise-263481/" class="tn-tape-title">World oil prices continue to rise</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>22 ноября 2016, 12:00</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263481'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/space-360-first-ever-4k-panoramic-view-from-iss-263478/" class="tn-tape-title">Space 360: first-ever 4K panoramic view from ISS</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 ноября 2016, 20:23</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263478'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/laws_initiatives/nazarbayev-calls-expo-2017-case-convicts-embezzled-263480/" class="tn-tape-title">Nazarbayev calls EXPO-2017 case convicts embezzled</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 ноября 2016, 17:35</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263480'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/kazakhstan_news/kazakhstan-expects-warming-kazhydromet-263479/" class="tn-tape-title">Kazakhstan expects warming - Kazhydromet</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 ноября 2016, 14:12</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263479'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/merkel-to-seek-fourth-term-as-chancellor-263477/" class="tn-tape-title">Merkel to seek fourth term as chancellor</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 ноября 2016, 10:05</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263477'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/cinema_and_music/cruz-bardem-to-star-in-iranian-directors-film-263476/" class="tn-tape-title">Cruz, Bardem to star in Iranian director&#039;s film</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 ноября 2016, 00:04</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263476'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/space-bound-russian-android-shows-handyman-skills-263475/" class="tn-tape-title">Space-bound Russian android shows handyman skills</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>20 ноября 2016, 22:01</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263475'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/near_east/french-priest-reveals-is-child-jihadist-training-263474/" class="tn-tape-title">French priest reveals IS child jihadist training</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>20 ноября 2016, 20:33</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263474'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/kazakhstan_news/akimat-the-snowfall-in-almaty-is-unprecedented-263473/" class="tn-tape-title">Akimat: the snowfall in Almaty is unprecedented</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>20 ноября 2016, 17:05</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263473'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/markets/expert-why-oil-prices-rise-to-100-usd-per-barrel-263472/" class="tn-tape-title">Expert: why oil prices rise to 100 USD per barrel</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>20 ноября 2016, 13:22</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263472'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/people/in-the-us-prisoner-is-acquitted-after-39-years-263471/" class="tn-tape-title">In the US prisoner is acquitted after 39 years</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>19 ноября 2016, 22:45</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263471'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/show_and_style/sale-of-tintin-drawings-set-to-break-records-263470/" class="tn-tape-title">Sale of Tintin drawings set to break records</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>19 ноября 2016, 18:40</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263470'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/markets/us-eu-stocks-fall-as-markets-focus-on-dollar-263469/" class="tn-tape-title">US, EU stocks fall as markets focus on dollar</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>19 ноября 2016, 15:44</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263469'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/pacific-leaders-urged-to-defend-free-trade-263468/" class="tn-tape-title">Pacific leaders urged to defend free trade</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>19 ноября 2016, 13:10</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263468'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/finance/eu-warns-eight-nations-on-budget-deficit-263458/" class="tn-tape-title">EU warns eight nations on budget deficit</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>18 ноября 2016, 17:40</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263458'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/health/new-lung-transplant-technique-could-save-lives-263467/" class="tn-tape-title">New lung transplant technique could save lives</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>18 ноября 2016, 17:37</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263467'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/environment/earth-sees-hottest-year-to-date-in-modern-era-us-263463/" class="tn-tape-title">Earth sees hottest year-to-date in modern era: US</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>18 ноября 2016, 14:48</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263463'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <div class="tn-tape-item-image">
+
+
+
+
+
+
+            <img src="/userdata/news_en/2016/news_263466/thumb_xn/photo_52714.jpg" alt="">
+
+    </div>
+    <a href="/sport/universiade-2017-athletic-village-is-ready-263466/" class="tn-tape-title">Universiade-2017: Athletic Village is ready</a>
+    <ul class="tn-data-list">
+        <li><span><time>18 ноября 2016, 12:27</time></span></li>
+        <li>
+            <view-show-component :id="'263466'" :type="'news'" :dark="true"
+                                 :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/europe/eu-eyes-us-style-screening-system-for-travellers-263461/" class="tn-tape-title">EU eyes US-style screening system for travellers</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>17 ноября 2016, 21:23</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263461'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/people/bob-dylan-cant-make-nobel-ceremony-263459/" class="tn-tape-title">Bob Dylan can&#039;t make Nobel ceremony</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>17 ноября 2016, 19:38</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263459'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/sport/messi-will-never-leave-barca-club-president-263460/" class="tn-tape-title">Messi will never leave Barca - club president</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>17 ноября 2016, 17:14</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263460'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <div class="tn-tape-item-image">
+
+
+
+
+
+
+            <img src="/userdata/news_en/2016/news_263462/thumb_xn/photo_52710.jpg" alt="">
+
+    </div>
+    <a href="/emergencies/almaty-authorities-react-to-blames-on-snow-removal-263462/" class="tn-tape-title">Almaty authorities react to blames on snow removal</a>
+    <ul class="tn-data-list">
+        <li><span><time>17 ноября 2016, 15:12</time></span></li>
+        <li>
+            <view-show-component :id="'263462'" :type="'news'" :dark="true"
+                                 :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/assad-trump-could-become-syrias-natural-ally-263452/" class="tn-tape-title">Assad: Trump could become Syria’s ‘natural ally&quot;</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>17 ноября 2016, 12:05</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263452'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/health/high-blood-pressure-big-issue-in-developing-world-263457/" class="tn-tape-title">High blood pressure big issue in developing world</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>16 ноября 2016, 23:08</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263457'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/cinema_and_music/mcconaughey-gains-weight-for-his-role-in-gold-263456/" class="tn-tape-title">McConaughey gains weight for his role in &#039;Gold&#039;</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>16 ноября 2016, 21:04</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263456'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/religion/christs-tomb-exposed-for-first-time-in-centuries-263455/" class="tn-tape-title">Christ&#039;s tomb Exposed for First Time in Centuries</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>16 ноября 2016, 18:49</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263455'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/nintendo-shares-jump-on-super-mario-for-iphones-263454/" class="tn-tape-title">Nintendo shares jump on Super Mario for iPhones</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>16 ноября 2016, 17:01</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263454'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/google-facebook-take-aim-at-fake-news-263453/" class="tn-tape-title">Google, Facebook take aim at &#039;fake&#039; news</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>16 ноября 2016, 11:33</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263453'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/nazarbayev-discussed-agreements-with-serbian-pm-263450/" class="tn-tape-title">Nazarbayev  discussed agreements with Serbian PM</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>15 ноября 2016, 20:36</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263450'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/science/nasa-has-published-photos-of-supermoon-at-baikonur-263448/" class="tn-tape-title">NASA has published photos of Supermoon at Baikonur</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>15 ноября 2016, 12:23</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263448'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/music/aerosmith-announces-europe-farewell-tour-263447/" class="tn-tape-title">Aerosmith announces Europe &#039;farewell&#039; tour</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>15 ноября 2016, 07:29</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263447'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/putin-trump-to-normalise-us-russia-ties-263446/" class="tn-tape-title">Putin, Trump to normalise US-Russia ties</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>15 ноября 2016, 07:10</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263446'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/military/jihadists-shave-beards-as-pressure-builds-on-mosul-263444/" class="tn-tape-title">Jihadists &#039;shave beards&#039; as pressure builds on Mosul</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>27 октября 2016, 11:21</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263444'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/markets/hong-kong-shanghai-stocks-tumble-in-morning-trade-263443/" class="tn-tape-title">Hong Kong, Shanghai stocks tumble in morning trade</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>27 октября 2016, 11:18</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263443'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/emergencies/at-least-10-hurt-in-southern-turkey-blast-263442/" class="tn-tape-title">At least 10 hurt in southern Turkey blast</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>25 октября 2016, 13:09</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263442'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/disasters/62-quake-hits-western-japan-263441/" class="tn-tape-title">6.2 quake hits western Japan</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 октября 2016, 15:26</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263441'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                                                                                <div class="tn-tape-item  ">
+    <a href="/politics_sub/trump-gets-booed-as-he-and-clinton-trade-biting-jokes-263440/" class="tn-tape-title">Trump gets booed as he and Clinton trade biting jokes</a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>21 октября 2016, 14:36</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'263440'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+                    <li><span><i class="tn-icon-comment-dark"></i><span>1</span></span></li>
+            </ul>
+</div>                                                                                    </div>
+                <div class="tn-popular_news">
+                                                                                                <div class="tn-tape-item tn-popular">
+    <a href="/art_and_books/modern-bhutanese-embarrassed-by-phallus-art-4264/" class="tn-tape-title">Modern Bhutanese &#039;embarrassed&#039; by phallus art </a>
+    <ul class="tn-data-list">
+        <li>
+            <span>
+                <time>06 сентября 2011, 11:04</time>
+            </span>
+        </li>
+        <li>
+            <view-show-component :id="'4264'" :type="'news'" :dark="true" :lang="'en'"></view-show-component>
+        </li>
+            </ul>
+</div>                                                                                    </div>
+            </div>
+            <div class="tn-tape-footer">
+                <div id="more_news" class="tn-button tn-hidden@t">Еще 10 новостей</div>
+                <div id="back_to_all_news" class="tn-button tn-hidden">site.all_news</div>
+            </div>
+
+        </div>
+    </div>
+</section>    <div class="tn-container">
+        <div class="tn-after-main-banner">
+        </div>
+    </div>
+
+    
+    <div class="tn-container">
+        <div class="tn-bottom-banner"></div>
+    </div>
+    </main>
+    <footer>
+    <div class="tn-container">
+        <div class="tn-footer-grid">
+            <div>
+                <ul class="tn-data-list">
+                    <li><a href="/page/about/">About</a></li>
+                    <li><a href="/page/jobs/">Jobs</a></li>
+                    <li><a target="_blank"
+                           href="https://docs.google.com/spreadsheets/d/1_CpKYOQMT8SGn9SKQfABEK7dScDoPc5JhfO0GvRD7mw/edit?usp=sharing">Advertising</a>
+                    </li>
+                                        <li><a href="/sitemap/">Map of site</a></li>
+                </ul>
+                <a href="/page/information/"
+                   class="tn-copyright-warning">Material Restriction Information Tengrinews.kz</a>
+            </div>
+            <label for="tn-theme" class="tn-them-layout tn-visible@t">Theme:
+                <div class="onoffswitch">
+                    <input tn-switch-them="" type="checkbox" class="onoffswitch-checkbox" name="tn-theme" id="tn-theme">
+                    <label class="onoffswitch-label" for="tn-theme"></label>
+                </div>
+            </label>
+            <div>
+                <ul class="tn-contact-list" itemscope itemtype="http://schema.org/Organization">
+                    <li>Contacts</li>
+                    <li><a itemprop="telephone" href="tel:+7(727)3888138">+7 (727) 3888 138</a></li>
+                    <li><a itemprop="telephone" href="tel:+7(717)2542710">+7 (717) 254 2710</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="tn-social-title">We are in the social. networks:</div>
+                <ul class="tn-social-list">
+                    <li><a href="/" data-href="https://vk.com/tengrinews" target="_blank"><span class="tn-icon-vk"></span></a></li>
+                    <li><a href="/" data-href="https://www.facebook.com/Tengrinews.kz/" target="_blank"><i class="tn-icon-fb"></i></a>
+                    </li>
+                    <li><a href="/" data-href="https://twitter.com/tengrinewskz" target="_blank"><i class="tn-icon-tw"></i></a></li>
+                    <li><a href="/" data-href="https://www.instagram.com/tengrinewskz/" target="_blank"><i
+                                    class="tn-icon-instagram"></i></a></li>
+                    <li><a href="/" data-href="https://ok.ru/tengrinews.kz" target="_blank"><i class="tn-icon-ok"></i></a></li>
+                    <li><a href="/" data-href="https://telegram.me/tengrinews" target="_blank"><i class="tn-icon-tg"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <ul class="tn-list-grid tn-visible@t">
+                            <li><a href="https://tengrinews.kz/tag/%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B/">Новости Алматы</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9D%D1%83%D1%80-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD/">Новости Нур-Султана</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82-/">Новости Шымкента</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0/">Новости Караганды </a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5/">Новости Актобе</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA/">Новости Усть-Каменогорска</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA/">Новости Уральска</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B9/">Новости Костаная</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BE%D1%80%D0%B4%D0%B0/">Новости Кызылорды</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%90%D1%82%D1%8B%D1%80%D0%B0%D1%83/">Новости Атырау</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%90%D0%BA%D1%82%D0%B0%D1%83/">Новости Актау</a></li>
+                            <li><a href="https://tengrinews.kz/usa/">Новости США</a></li>
+                            <li><a href="https://tengrinews.kz/russia/">Новости России</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/">Новости Украины</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%95%D0%90%D0%AD%D0%A1/">Новости ЕАЭС</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/">Новости Узбекистана</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0/">Энергетика</a></li>
+                            <li><a href="https://tengrinews.kz/crime/">Преступность</a></li>
+                            <li><a href="https://tengrinews.kz/events/">События</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%A7%D0%9F/">Чрезвычайные происшествия</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/">Катастрофы</a></li>
+                            <li><a href="https://tengrinews.kz/football/">Футбол</a></li>
+                            <li><a href="https://tengrinews.kz/tennis/">Теннис</a></li>
+                            <li><a href="https://tengrinews.kz/tag/%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D1%81%D0%BF%D0%BE%D1%80%D1%82/">Киберспорт</a></li>
+                            <li><a href="https://tengrinews.kz/boxing/">Бокс</a></li>
+                            <li><a href="https://tengrinews.kz/hockey/">Хоккей</a></li>
+                            <li><a href="/politic/">Политика</a></li>
+                            <li><a href="/autos/">Авто</a></li>
+                    </ul>
+        <hr>
+        <div class="tn-footer-grid-meta">
+
+            <span class="tn-copyright">© 2008-2020 LLP «EML»</span>
+            <ul class="tn-list-app">
+                <li>Tengrinews apps for:</li>
+                <li><a href="/" data-href="https://itunes.apple.com/kz/app/tengrinews-for-iphone/id510927516?mt=8">iPhone</a></li>
+                <li><a href="/" data-href="https://itunes.apple.com/kz/app/tengrinews-for-ipad/id520370213?mt=8">iPad</a></li>
+                <li><a href="/" data-href="https://play.google.com/store/apps/details?id=kz.tengrinews">Android</a></li>
+            </ul>
+            <span class="tn-designer">Designed by <b>ibec systems</b></span>
+        </div>
+    </div>
+</footer>
+            
+        <script type="application/ld+json">
+            {"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/en.tengrinews.kz\/","potentialAction":{"@type":"SearchAction","target":"https:\/\/en.tengrinews.kz\/search\/?text={search_term_string}","query-input":"required name=search_term_string"}}
+        </script>
+        <script type="application/ld+json">
+            {"@context":"http:\/\/schema.org","@type":"Organization","name":"En.Tengrinews.kz","url":"https:\/\/en.tengrinews.kz\/","logo":"https:\/\/tengrinews.kz\/img\/logo-mini.png","sameAs":"site.social_"}
+        </script>
+    </div>
+<div class="tn-line-banner"></div>
+<div class="tn-branding-banner"></div>
+<div class="tn-fullscreen-banner"></div>
+<div class="tn-scroll-top tn-visible@t">
+    <svg width="40" height="40" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="chevron-up">
+        <polyline fill="none" stroke="#000" stroke-width="1.03" points="4 13 10 7 16 13"></polyline>
+    </svg>
+</div>
+
+</body>
+        <script src="/js/loader.js?v=219" defer="defer" crossorigin="anonymous"></script>
+
+    
+    
+    
+    
+    
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+        ym(1838272, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div>
+            <img src="https://mc.yandex.ru/watch/1838272" style="position:absolute; left:-9999px;"
+                 alt=""/>
+        </div>
+    </noscript>
+    <!--LiveInternet counter-->
+    <script type="text/javascript">
+        document.write('<a href="//www.liveinternet.ru/click" ' +
+            'target="_blank"><img src="//counter.yadro.ru/hit?t20.1;r' +
+            escape(document.referrer) + ((typeof (screen) == 'undefined') ? '' :
+                ';s' + screen.width + '*' + screen.height + '*' + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ';u' + escape(document.URL) +
+            ';h' + escape(document.title.substring(0, 150)) + ';' + Math.random() +
+            '" alt="" title="LiveInternet: показано число просмотров за 24' +
+            ' часа, посетителей за 24 часа и за сегодня" ' +
+            'border="0" width="88" style="display: none;" height="31"><\/a>')
+    </script><!--/LiveInternet-->
+    <!-- /Yandex.Metrika counter -->
+    <script async src="https://cdn.onthe.io/io.js/TcEIpwNbo0qG"></script>
+    <script defer="defer" src="/js/core.js?v=219"></script>
+    <script async="async" src="/js/seohide.js?v=219"></script>
+    <script src="/js/analytic.js" async="async"></script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            appId: "5e0ed479-25e3-4997-9f5c-8786db92b448",
+            autoRegister:  false ,
+            notifyButton: {
+                enable:  true , /* Required to use the notify button */
+                size:  "medium" , /* One of 'small', 'medium', or 'large' */
+//                theme     : 'default' , /* One of 'default' (red-white) or 'inverse" (white-red) */
+                position: 'bottom-left', /* Either 'bottom-left' or 'bottom-right' */
+                offset: {
+                    bottom:  "20px" ,
+//                    left  : '0px' , /* Only applied if bottom-left */
+//                    right : '0px' /* Only applied if bottom-right */
+                },
+//                prenotify : true , /* Show an icon with 1 unread message for first-time site visitors */
+                showCredit: false, /* Hide the OneSignal logo */
+                text: {
+                    'tip.state.unsubscribed': 'Уведомления от Tengrinews.kz',
+                    'tip.state.subscribed': "Вы подписаны на уведомления",
+                    'tip.state.blocked': "Вы заблокировали оповещения",
+                    'message.prenotify': 'Нажмите, чтобы подписаться на уведомления',
+                    'message.action.subscribed': "Благодарим за подписку!",
+                    'message.action.resubscribed': "Вы подписаны на уведомления",
+                    'message.action.unsubscribed': "Вы больше не будете получать уведомления",
+                    'dialog.main.title': 'Управление уведомлениями на сайте',
+                    'dialog.main.button.subscribe': 'ПОДПИСАТЬСЯ',
+                    'dialog.main.button.unsubscribe': 'ОТПИСАТЬСЯ',
+                    'dialog.blocked.title': 'Разблокировать уведомления',
+                    'dialog.blocked.message': "Следуйте этим инструкциям, чтобы разрешить уведомления:"
+                },
+                test: (function () {
+                    var timer;
+                    window.addEventListener('load', function () {
+                        var contentEdit = function () {
+                            if (document.querySelector('.onesignal-bell-launcher-button')) {
+                                clearInterval(timer);
+                                var div = document.createElement('div');
+                                div.classList.add('background');
+                                div.innerHTML = '<svg version="1.1" class="onesignal-bell-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="99.7px" height="99.7px" viewBox="0 0 99.7 99.7" style="filter: drop-shadow(0 2px 4px rgba(34,36,38,0.35));; -webkit-filter: drop-shadow(0 2px 4px rgba(34,36,38,0.35));;" xml:space="preserve">' +
+                                    '<g><circle class="background" cx="49.9" cy="49.9" r="49.9"></circle>' +
+                                    '<g id="Layer_2"><g><path class="foreground" style="fill:#109d01;" d="m 25.5,40.5 0,-12.228572 23.885997,0.1 25.114,0.07857 0,12.050002 -17.114,0 0,5.370926 0,2 0,2.099574 -15.999998,-9.321 0,-0.1495 z"></path>' +
+                                    '<path class="foreground" style="fill:#109d01;" d="m 41.5,60.5 15.999998,9.318 -15.999998,0 z"></path>' +
+                                    '<ellipse style="fill:transparent;" class="stroke" stroke="#fff" cx="50" cy="50" rx="38" ry="38"></ellipse></g></g></g></svg>';
+
+                                document.querySelector('.onesignal-bell-launcher-button').innerHTML = '';
+                                document.querySelector('.onesignal-bell-launcher-button').appendChild(div);
+                            }
+                        };
+                        timer = setInterval(contentEdit, 500);
+                    });
+                })()
+            },
+            promptOptions: {
+                actionMessage: "Вы хотели бы получать уведомления о последних новостях и событиях.",
+                acceptButtonText: "ДА!!!",
+                cancelButtonText: "НЕТ СПАСИБО"
+            }
+        }]);
+    </script>
+</html>

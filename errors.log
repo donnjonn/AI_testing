@@ -1,0 +1,8 @@
+Message: The element reference of <a href="http://automationpractice.com/index.php?controller=contact"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6d2c1309-01c7-4770-8bbb-b62bd7844879", element="26c38f1d-8ee6-4571-8a57-18096af672b5")>
+op pagina http://automationpractice.com
+Message: The element reference of <a href="http://automationpractice.com/index.php?controller=contact"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3992583e-e13f-48d3-8cf0-43678e96e7be", element="1e19382c-4987-4fc0-b613-6cb01b93e526")>
+op pagina http://automationpractice.com
+

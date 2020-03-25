@@ -1,0 +1,15 @@
+digraph tree {
+    "Udo";
+    "Marc";
+    "Lian";
+    "Dan";
+    "Jet";
+    "Jan";
+    "Joe";
+    "Udo" -> "Marc";
+    "Udo" -> "Dan";
+    "Marc" -> "Lian";
+    "Dan" -> "Jet";
+    "Dan" -> "Jan";
+    "Dan" -> "Joe";
+}

@@ -2572,3 +2572,23 @@ Message: Timeout loading page after 5000ms
 <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cdb4c9ea-7c13-4feb-aef8-71a8824a6a2e", element="c8f77adf-3262-474e-addc-1f5055278105")>
 op pagina http://127.0.0.1:8000/blog/
 
+Message: Timeout loading page after 5000ms
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82a179e2-27c1-45c3-a98d-e5b7e7d4c226", element="c631968f-db0e-45ed-8520-08f50266c232")>
+op pagina http://127.0.0.1:8000/blog/sitemap/
+
+Message: Timeout loading page after 5000ms
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82a179e2-27c1-45c3-a98d-e5b7e7d4c226", element="7f12eb9c-7daa-4ef2-94c0-acb20f93d44c")>
+op pagina http://127.0.0.1:8000/blog/categories/
+
+Message: Timeout loading page after 5000ms
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82a179e2-27c1-45c3-a98d-e5b7e7d4c226", element="1d84e2e7-1fbf-4c3d-9dc5-94aa5bea1e9a")>
+op pagina http://127.0.0.1:8000/blog/authors/
+
+Message: Timeout loading page after 5000ms
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82a179e2-27c1-45c3-a98d-e5b7e7d4c226", element="e365759b-8bdb-4055-b840-64084770e818")>
+op pagina http://127.0.0.1:8000/blog/tags/
+
+Message: Timeout loading page after 5000ms
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82a179e2-27c1-45c3-a98d-e5b7e7d4c226", element="eaacd165-1e03-4857-bbeb-73a84fceb301")>
+op pagina http://127.0.0.1:8000/blog/
+

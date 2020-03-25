@@ -1,0 +1,1703 @@
+{
+  "children": [
+    {
+      "id": "http://127.0.0.1:8000/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/"
+    },
+    {
+      "children": [
+        {
+          "id": "http://127.0.0.1:8000/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/codehub/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/codehub/"
+        },
+        {
+          "children": [
+            {
+              "id": "http://127.0.0.1:8000/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/codehub/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/codehub/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/resume/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/resume/"
+            },
+            {
+              "children": [
+                {
+                  "id": "http://127.0.0.1:8000/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/codehub/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/codehub/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/resume/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/resume/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/about/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/about/"
+                },
+                {
+                  "children": [
+                    {
+                      "id": "http://127.0.0.1:8000/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/codehub/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/codehub/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/resume/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/resume/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/about/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/about/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/portfolio/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/portfolio/"
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "http://127.0.0.1:8000/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/"
+                        },
+                        {
+                          "children": [
+                            {
+                              "id": "http://127.0.0.1:8000/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/sitemap/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/sitemap/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/feeds/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/feeds/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/"
+                            },
+                            {
+                              "id": "http://www.ndemorichard.com/resume/",
+                              "level": 7,
+                              "name": "http://www.ndemorichard.com/resume/"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "id": "http://127.0.0.1:8000/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/sitemap/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/sitemap/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/feeds/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/feeds/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/"
+                                },
+                                {
+                                  "id": "http://www.ndemorichard.com/resume/",
+                                  "level": 8,
+                                  "name": "http://www.ndemorichard.com/resume/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/categories/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/categories/"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "id": "http://127.0.0.1:8000/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/sitemap/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/sitemap/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/feeds/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/feeds/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/"
+                                    },
+                                    {
+                                      "id": "http://www.ndemorichard.com/resume/",
+                                      "level": 9,
+                                      "name": "http://www.ndemorichard.com/resume/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/categories/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/categories/"
+                                    },
+                                    {
+                                      "id": "http://127.0.0.1:8000/blog/authors/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/authors/"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "id": "http://127.0.0.1:8000/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/sitemap/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/sitemap/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/feeds/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/feeds/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/"
+                                        },
+                                        {
+                                          "id": "http://www.ndemorichard.com/resume/",
+                                          "level": 10,
+                                          "name": "http://www.ndemorichard.com/resume/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/categories/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/categories/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/authors/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/authors/"
+                                        },
+                                        {
+                                          "id": "http://127.0.0.1:8000/blog/tags/",
+                                          "level": 10,
+                                          "name": "http://127.0.0.1:8000/blog/tags/"
+                                        },
+                                        {
+                                          "id": "http://www.ndemorichard.com/",
+                                          "level": 10,
+                                          "name": "http://www.ndemorichard.com/"
+                                        }
+                                      ],
+                                      "id": "http://127.0.0.1:8000/blog/tags/",
+                                      "level": 9,
+                                      "name": "http://127.0.0.1:8000/blog/tags/"
+                                    },
+                                    {
+                                      "id": "http://www.ndemorichard.com/",
+                                      "level": 9,
+                                      "name": "http://www.ndemorichard.com/"
+                                    }
+                                  ],
+                                  "id": "http://127.0.0.1:8000/blog/authors/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/authors/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/tags/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/tags/"
+                                },
+                                {
+                                  "id": "http://www.ndemorichard.com/",
+                                  "level": 8,
+                                  "name": "http://www.ndemorichard.com/"
+                                }
+                              ],
+                              "id": "http://127.0.0.1:8000/blog/categories/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/categories/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/authors/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/authors/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/tags/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/tags/"
+                            },
+                            {
+                              "id": "http://www.ndemorichard.com/",
+                              "level": 7,
+                              "name": "http://www.ndemorichard.com/"
+                            }
+                          ],
+                          "id": "http://127.0.0.1:8000/blog/sitemap/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/sitemap/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/feeds/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/feeds/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "id": "http://127.0.0.1:8000/admin/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/admin/"
+                                }
+                              ],
+                              "id": "http://127.0.0.1:8000/admin/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/admin/"
+                            }
+                          ],
+                          "id": "http://127.0.0.1:8000/admin/zinnia/entry/add/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/admin/zinnia/entry/add/"
+                        },
+                        {
+                          "id": "http://www.ndemorichard.com/resume/",
+                          "level": 6,
+                          "name": "http://www.ndemorichard.com/resume/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/categories/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/categories/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/authors/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/authors/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/tags/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/tags/"
+                        },
+                        {
+                          "id": "http://www.ndemorichard.com/",
+                          "level": 6,
+                          "name": "http://www.ndemorichard.com/"
+                        }
+                      ],
+                      "id": "http://127.0.0.1:8000/blog/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/blog/"
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "http://127.0.0.1:8000/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/codehub/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/codehub/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/resume/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/resume/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/about/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/about/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/portfolio/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/portfolio/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/"
+                        },
+                        {
+                          "id": "https://www.facebook.com/codebomblast/",
+                          "level": 6,
+                          "name": "https://www.facebook.com/codebomblast/"
+                        },
+                        {
+                          "id": "https://devheroes.club/",
+                          "level": 6,
+                          "name": "https://devheroes.club/"
+                        },
+                        {
+                          "id": "https://www.instagram.com/richard_ndemo/",
+                          "level": 6,
+                          "name": "https://www.instagram.com/richard_ndemo/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard"
+                        },
+                        {
+                          "id": "https://www.linkedin.com/in/richard-ndemo/",
+                          "level": 6,
+                          "name": "https://www.linkedin.com/in/richard-ndemo/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard"
+                        },
+                        {
+                          "children": [
+                            {
+                              "id": "http://127.0.0.1:8000/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/codehub/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/codehub/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/resume/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/resume/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/about/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/about/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/portfolio/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/portfolio/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/blog/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/blog/"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/"
+                            },
+                            {
+                              "id": "https://www.facebook.com/codebomblast/",
+                              "level": 7,
+                              "name": "https://www.facebook.com/codebomblast/"
+                            },
+                            {
+                              "id": "https://devheroes.club/",
+                              "level": 7,
+                              "name": "https://devheroes.club/"
+                            },
+                            {
+                              "id": "https://www.instagram.com/richard_ndemo/",
+                              "level": 7,
+                              "name": "https://www.instagram.com/richard_ndemo/"
+                            },
+                            {
+                              "id": "https://github.com/ndemo-richard",
+                              "level": 7,
+                              "name": "https://github.com/ndemo-richard"
+                            },
+                            {
+                              "id": "https://www.linkedin.com/in/richard-ndemo/",
+                              "level": 7,
+                              "name": "https://www.linkedin.com/in/richard-ndemo/"
+                            },
+                            {
+                              "id": "https://github.com/ndemo-richard",
+                              "level": 7,
+                              "name": "https://github.com/ndemo-richard"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/#",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/#",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/#",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/#",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#"
+                            },
+                            {
+                              "id": "http://127.0.0.1:8000/contact/#",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#"
+                            },
+                            {
+                              "id": "https://www.djangoproject.com/",
+                              "level": 7,
+                              "name": "https://www.djangoproject.com/"
+                            },
+                            {
+                              "id": "https://github.com/ndemo-richard/ndemo-master",
+                              "level": 7,
+                              "name": "https://github.com/ndemo-richard/ndemo-master"
+                            },
+                            {
+                              "id": "https://www.facebook.com/codebomblast/",
+                              "level": 7,
+                              "name": "https://www.facebook.com/codebomblast/"
+                            },
+                            {
+                              "id": "https://www.instagram.com/richard_ndemo/",
+                              "level": 7,
+                              "name": "https://www.instagram.com/richard_ndemo/"
+                            },
+                            {
+                              "id": "https://github.com/ndemo-richard",
+                              "level": 7,
+                              "name": "https://github.com/ndemo-richard"
+                            },
+                            {
+                              "id": "https://twitter.com/ndemorich",
+                              "level": 7,
+                              "name": "https://twitter.com/ndemorich"
+                            },
+                            {
+                              "id": "https://www.linkedin.com/in/richard-ndemo/",
+                              "level": 7,
+                              "name": "https://www.linkedin.com/in/richard-ndemo/"
+                            },
+                            {
+                              "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                              "level": 7,
+                              "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "id": "http://127.0.0.1:8000/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/codehub/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/codehub/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/resume/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/resume/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/about/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/about/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/portfolio/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/portfolio/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/blog/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/blog/"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/"
+                                },
+                                {
+                                  "id": "https://www.facebook.com/codebomblast/",
+                                  "level": 8,
+                                  "name": "https://www.facebook.com/codebomblast/"
+                                },
+                                {
+                                  "id": "https://devheroes.club/",
+                                  "level": 8,
+                                  "name": "https://devheroes.club/"
+                                },
+                                {
+                                  "id": "https://www.instagram.com/richard_ndemo/",
+                                  "level": 8,
+                                  "name": "https://www.instagram.com/richard_ndemo/"
+                                },
+                                {
+                                  "id": "https://github.com/ndemo-richard",
+                                  "level": 8,
+                                  "name": "https://github.com/ndemo-richard"
+                                },
+                                {
+                                  "id": "https://www.linkedin.com/in/richard-ndemo/",
+                                  "level": 8,
+                                  "name": "https://www.linkedin.com/in/richard-ndemo/"
+                                },
+                                {
+                                  "id": "https://github.com/ndemo-richard",
+                                  "level": 8,
+                                  "name": "https://github.com/ndemo-richard"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#"
+                                },
+                                {
+                                  "id": "https://www.djangoproject.com/",
+                                  "level": 8,
+                                  "name": "https://www.djangoproject.com/"
+                                },
+                                {
+                                  "id": "https://github.com/ndemo-richard/ndemo-master",
+                                  "level": 8,
+                                  "name": "https://github.com/ndemo-richard/ndemo-master"
+                                },
+                                {
+                                  "id": "https://www.facebook.com/codebomblast/",
+                                  "level": 8,
+                                  "name": "https://www.facebook.com/codebomblast/"
+                                },
+                                {
+                                  "id": "https://www.instagram.com/richard_ndemo/",
+                                  "level": 8,
+                                  "name": "https://www.instagram.com/richard_ndemo/"
+                                },
+                                {
+                                  "id": "https://github.com/ndemo-richard",
+                                  "level": 8,
+                                  "name": "https://github.com/ndemo-richard"
+                                },
+                                {
+                                  "id": "https://twitter.com/ndemorich",
+                                  "level": 8,
+                                  "name": "https://twitter.com/ndemorich"
+                                },
+                                {
+                                  "id": "https://www.linkedin.com/in/richard-ndemo/",
+                                  "level": 8,
+                                  "name": "https://www.linkedin.com/in/richard-ndemo/"
+                                },
+                                {
+                                  "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                                  "level": 8,
+                                  "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                                },
+                                {
+                                  "id": "http://127.0.0.1:8000/contact/#top",
+                                  "level": 8,
+                                  "name": "http://127.0.0.1:8000/contact/#top"
+                                }
+                              ],
+                              "id": "http://127.0.0.1:8000/contact/#top",
+                              "level": 7,
+                              "name": "http://127.0.0.1:8000/contact/#top"
+                            }
+                          ],
+                          "id": "http://127.0.0.1:8000/contact/#",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/#",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/#",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/#",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/#",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#"
+                        },
+                        {
+                          "id": "https://www.djangoproject.com/",
+                          "level": 6,
+                          "name": "https://www.djangoproject.com/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard/ndemo-master",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard/ndemo-master"
+                        },
+                        {
+                          "id": "https://www.facebook.com/codebomblast/",
+                          "level": 6,
+                          "name": "https://www.facebook.com/codebomblast/"
+                        },
+                        {
+                          "id": "https://www.instagram.com/richard_ndemo/",
+                          "level": 6,
+                          "name": "https://www.instagram.com/richard_ndemo/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard"
+                        },
+                        {
+                          "id": "https://twitter.com/ndemorich",
+                          "level": 6,
+                          "name": "https://twitter.com/ndemorich"
+                        },
+                        {
+                          "id": "https://www.linkedin.com/in/richard-ndemo/",
+                          "level": 6,
+                          "name": "https://www.linkedin.com/in/richard-ndemo/"
+                        },
+                        {
+                          "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                          "level": 6,
+                          "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/#top",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/#top"
+                        }
+                      ],
+                      "id": "http://127.0.0.1:8000/contact/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/contact/"
+                    },
+                    {
+                      "id": "https://www.djangoproject.com/",
+                      "level": 5,
+                      "name": "https://www.djangoproject.com/"
+                    },
+                    {
+                      "id": "https://github.com/ndemo-richard/ndemo-master",
+                      "level": 5,
+                      "name": "https://github.com/ndemo-richard/ndemo-master"
+                    },
+                    {
+                      "id": "https://www.facebook.com/codebomblast/",
+                      "level": 5,
+                      "name": "https://www.facebook.com/codebomblast/"
+                    },
+                    {
+                      "id": "https://www.instagram.com/richard_ndemo/",
+                      "level": 5,
+                      "name": "https://www.instagram.com/richard_ndemo/"
+                    },
+                    {
+                      "id": "https://github.com/ndemo-richard",
+                      "level": 5,
+                      "name": "https://github.com/ndemo-richard"
+                    },
+                    {
+                      "id": "https://twitter.com/ndemorich",
+                      "level": 5,
+                      "name": "https://twitter.com/ndemorich"
+                    },
+                    {
+                      "id": "https://www.linkedin.com/in/richard-ndemo/",
+                      "level": 5,
+                      "name": "https://www.linkedin.com/in/richard-ndemo/"
+                    },
+                    {
+                      "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                      "level": 5,
+                      "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "http://127.0.0.1:8000/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/codehub/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/codehub/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/resume/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/resume/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/about/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/about/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/portfolio/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/portfolio/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/blog/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/blog/"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/contact/",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/contact/"
+                        },
+                        {
+                          "id": "https://www.djangoproject.com/",
+                          "level": 6,
+                          "name": "https://www.djangoproject.com/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard/ndemo-master",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard/ndemo-master"
+                        },
+                        {
+                          "id": "https://www.facebook.com/codebomblast/",
+                          "level": 6,
+                          "name": "https://www.facebook.com/codebomblast/"
+                        },
+                        {
+                          "id": "https://www.instagram.com/richard_ndemo/",
+                          "level": 6,
+                          "name": "https://www.instagram.com/richard_ndemo/"
+                        },
+                        {
+                          "id": "https://github.com/ndemo-richard",
+                          "level": 6,
+                          "name": "https://github.com/ndemo-richard"
+                        },
+                        {
+                          "id": "https://twitter.com/ndemorich",
+                          "level": 6,
+                          "name": "https://twitter.com/ndemorich"
+                        },
+                        {
+                          "id": "https://www.linkedin.com/in/richard-ndemo/",
+                          "level": 6,
+                          "name": "https://www.linkedin.com/in/richard-ndemo/"
+                        },
+                        {
+                          "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                          "level": 6,
+                          "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                        },
+                        {
+                          "id": "http://127.0.0.1:8000/portfolio/#top",
+                          "level": 6,
+                          "name": "http://127.0.0.1:8000/portfolio/#top"
+                        }
+                      ],
+                      "id": "http://127.0.0.1:8000/portfolio/#top",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/portfolio/#top"
+                    }
+                  ],
+                  "id": "http://127.0.0.1:8000/portfolio/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/portfolio/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/blog/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/blog/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/contact/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/contact/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/resume/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/resume/"
+                },
+                {
+                  "id": "https://www.djangoproject.com/",
+                  "level": 4,
+                  "name": "https://www.djangoproject.com/"
+                },
+                {
+                  "id": "https://github.com/ndemo-richard/ndemo-master",
+                  "level": 4,
+                  "name": "https://github.com/ndemo-richard/ndemo-master"
+                },
+                {
+                  "id": "https://www.facebook.com/codebomblast/",
+                  "level": 4,
+                  "name": "https://www.facebook.com/codebomblast/"
+                },
+                {
+                  "id": "https://www.instagram.com/richard_ndemo/",
+                  "level": 4,
+                  "name": "https://www.instagram.com/richard_ndemo/"
+                },
+                {
+                  "id": "https://github.com/ndemo-richard",
+                  "level": 4,
+                  "name": "https://github.com/ndemo-richard"
+                },
+                {
+                  "id": "https://twitter.com/ndemorich",
+                  "level": 4,
+                  "name": "https://twitter.com/ndemorich"
+                },
+                {
+                  "id": "https://www.linkedin.com/in/richard-ndemo/",
+                  "level": 4,
+                  "name": "https://www.linkedin.com/in/richard-ndemo/"
+                },
+                {
+                  "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                  "level": 4,
+                  "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                },
+                {
+                  "children": [
+                    {
+                      "id": "http://127.0.0.1:8000/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/codehub/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/codehub/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/resume/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/resume/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/about/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/about/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/portfolio/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/portfolio/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/blog/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/blog/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/contact/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/contact/"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/resume/",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/resume/"
+                    },
+                    {
+                      "id": "https://www.djangoproject.com/",
+                      "level": 5,
+                      "name": "https://www.djangoproject.com/"
+                    },
+                    {
+                      "id": "https://github.com/ndemo-richard/ndemo-master",
+                      "level": 5,
+                      "name": "https://github.com/ndemo-richard/ndemo-master"
+                    },
+                    {
+                      "id": "https://www.facebook.com/codebomblast/",
+                      "level": 5,
+                      "name": "https://www.facebook.com/codebomblast/"
+                    },
+                    {
+                      "id": "https://www.instagram.com/richard_ndemo/",
+                      "level": 5,
+                      "name": "https://www.instagram.com/richard_ndemo/"
+                    },
+                    {
+                      "id": "https://github.com/ndemo-richard",
+                      "level": 5,
+                      "name": "https://github.com/ndemo-richard"
+                    },
+                    {
+                      "id": "https://twitter.com/ndemorich",
+                      "level": 5,
+                      "name": "https://twitter.com/ndemorich"
+                    },
+                    {
+                      "id": "https://www.linkedin.com/in/richard-ndemo/",
+                      "level": 5,
+                      "name": "https://www.linkedin.com/in/richard-ndemo/"
+                    },
+                    {
+                      "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                      "level": 5,
+                      "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                    },
+                    {
+                      "id": "http://127.0.0.1:8000/about/#top",
+                      "level": 5,
+                      "name": "http://127.0.0.1:8000/about/#top"
+                    }
+                  ],
+                  "id": "http://127.0.0.1:8000/about/#top",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/about/#top"
+                }
+              ],
+              "id": "http://127.0.0.1:8000/about/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/about/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/portfolio/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/portfolio/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/blog/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/blog/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/contact/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/contact/"
+            },
+            {
+              "children": [
+                {
+                  "id": "resource://pdf.js/web/#",
+                  "level": 4,
+                  "name": "resource://pdf.js/web/#"
+                },
+                {
+                  "id": "resource://pdf.js/web/#",
+                  "level": 4,
+                  "name": "resource://pdf.js/web/#"
+                }
+              ],
+              "id": "http://127.0.0.1:8000/static/app/Onyancha_R_ndemo_cv.pdf",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/static/app/Onyancha_R_ndemo_cv.pdf"
+            },
+            {
+              "id": "http://127.0.0.1:8000/contact/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/contact/"
+            },
+            {
+              "id": "https://www.djangoproject.com/",
+              "level": 3,
+              "name": "https://www.djangoproject.com/"
+            },
+            {
+              "id": "https://github.com/ndemo-richard/ndemo-master",
+              "level": 3,
+              "name": "https://github.com/ndemo-richard/ndemo-master"
+            },
+            {
+              "id": "https://www.facebook.com/codebomblast/",
+              "level": 3,
+              "name": "https://www.facebook.com/codebomblast/"
+            },
+            {
+              "id": "https://www.instagram.com/richard_ndemo/",
+              "level": 3,
+              "name": "https://www.instagram.com/richard_ndemo/"
+            },
+            {
+              "id": "https://github.com/ndemo-richard",
+              "level": 3,
+              "name": "https://github.com/ndemo-richard"
+            },
+            {
+              "id": "https://twitter.com/ndemorich",
+              "level": 3,
+              "name": "https://twitter.com/ndemorich"
+            },
+            {
+              "id": "https://www.linkedin.com/in/richard-ndemo/",
+              "level": 3,
+              "name": "https://www.linkedin.com/in/richard-ndemo/"
+            },
+            {
+              "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+              "level": 3,
+              "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+            },
+            {
+              "children": [
+                {
+                  "id": "http://127.0.0.1:8000/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/codehub/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/codehub/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/resume/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/resume/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/about/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/about/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/portfolio/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/portfolio/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/blog/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/blog/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/contact/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/contact/"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/static/app/Onyancha_R_ndemo_cv.pdf",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/static/app/Onyancha_R_ndemo_cv.pdf"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/contact/",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/contact/"
+                },
+                {
+                  "id": "https://www.djangoproject.com/",
+                  "level": 4,
+                  "name": "https://www.djangoproject.com/"
+                },
+                {
+                  "id": "https://github.com/ndemo-richard/ndemo-master",
+                  "level": 4,
+                  "name": "https://github.com/ndemo-richard/ndemo-master"
+                },
+                {
+                  "id": "https://www.facebook.com/codebomblast/",
+                  "level": 4,
+                  "name": "https://www.facebook.com/codebomblast/"
+                },
+                {
+                  "id": "https://www.instagram.com/richard_ndemo/",
+                  "level": 4,
+                  "name": "https://www.instagram.com/richard_ndemo/"
+                },
+                {
+                  "id": "https://github.com/ndemo-richard",
+                  "level": 4,
+                  "name": "https://github.com/ndemo-richard"
+                },
+                {
+                  "id": "https://twitter.com/ndemorich",
+                  "level": 4,
+                  "name": "https://twitter.com/ndemorich"
+                },
+                {
+                  "id": "https://www.linkedin.com/in/richard-ndemo/",
+                  "level": 4,
+                  "name": "https://www.linkedin.com/in/richard-ndemo/"
+                },
+                {
+                  "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+                  "level": 4,
+                  "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+                },
+                {
+                  "id": "http://127.0.0.1:8000/resume/#top",
+                  "level": 4,
+                  "name": "http://127.0.0.1:8000/resume/#top"
+                }
+              ],
+              "id": "http://127.0.0.1:8000/resume/#top",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/resume/#top"
+            }
+          ],
+          "id": "http://127.0.0.1:8000/resume/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/resume/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/about/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/about/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/portfolio/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/portfolio/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/blog/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/blog/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/contact/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/contact/"
+        },
+        {
+          "id": "https://www.djangoproject.com/",
+          "level": 2,
+          "name": "https://www.djangoproject.com/"
+        },
+        {
+          "id": "https://github.com/ndemo-richard/ndemo-master",
+          "level": 2,
+          "name": "https://github.com/ndemo-richard/ndemo-master"
+        },
+        {
+          "id": "https://www.facebook.com/codebomblast/",
+          "level": 2,
+          "name": "https://www.facebook.com/codebomblast/"
+        },
+        {
+          "id": "https://www.instagram.com/richard_ndemo/",
+          "level": 2,
+          "name": "https://www.instagram.com/richard_ndemo/"
+        },
+        {
+          "id": "https://github.com/ndemo-richard",
+          "level": 2,
+          "name": "https://github.com/ndemo-richard"
+        },
+        {
+          "id": "https://twitter.com/ndemorich",
+          "level": 2,
+          "name": "https://twitter.com/ndemorich"
+        },
+        {
+          "id": "https://www.linkedin.com/in/richard-ndemo/",
+          "level": 2,
+          "name": "https://www.linkedin.com/in/richard-ndemo/"
+        },
+        {
+          "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+          "level": 2,
+          "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+        },
+        {
+          "children": [
+            {
+              "id": "http://127.0.0.1:8000/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/codehub/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/codehub/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/resume/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/resume/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/about/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/about/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/portfolio/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/portfolio/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/blog/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/blog/"
+            },
+            {
+              "id": "http://127.0.0.1:8000/contact/",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/contact/"
+            },
+            {
+              "id": "https://www.djangoproject.com/",
+              "level": 3,
+              "name": "https://www.djangoproject.com/"
+            },
+            {
+              "id": "https://github.com/ndemo-richard/ndemo-master",
+              "level": 3,
+              "name": "https://github.com/ndemo-richard/ndemo-master"
+            },
+            {
+              "id": "https://www.facebook.com/codebomblast/",
+              "level": 3,
+              "name": "https://www.facebook.com/codebomblast/"
+            },
+            {
+              "id": "https://www.instagram.com/richard_ndemo/",
+              "level": 3,
+              "name": "https://www.instagram.com/richard_ndemo/"
+            },
+            {
+              "id": "https://github.com/ndemo-richard",
+              "level": 3,
+              "name": "https://github.com/ndemo-richard"
+            },
+            {
+              "id": "https://twitter.com/ndemorich",
+              "level": 3,
+              "name": "https://twitter.com/ndemorich"
+            },
+            {
+              "id": "https://www.linkedin.com/in/richard-ndemo/",
+              "level": 3,
+              "name": "https://www.linkedin.com/in/richard-ndemo/"
+            },
+            {
+              "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+              "level": 3,
+              "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+            },
+            {
+              "id": "http://127.0.0.1:8000/codehub/#top",
+              "level": 3,
+              "name": "http://127.0.0.1:8000/codehub/#top"
+            }
+          ],
+          "id": "http://127.0.0.1:8000/codehub/#top",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/codehub/#top"
+        }
+      ],
+      "id": "http://127.0.0.1:8000/codehub/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/codehub/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/resume/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/resume/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/about/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/about/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/portfolio/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/portfolio/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/blog/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/blog/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/contact/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/contact/"
+    },
+    {
+      "id": "https://www.youtube.com/embed/Scxs7L0vhZ4",
+      "level": 1,
+      "name": "https://www.youtube.com/embed/Scxs7L0vhZ4"
+    },
+    {
+      "id": "http://127.0.0.1:8000/resume/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/resume/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/codehub/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/codehub/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/portfolio/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/portfolio/"
+    },
+    {
+      "id": "https://player.vimeo.com/video/358812209",
+      "level": 1,
+      "name": "https://player.vimeo.com/video/358812209"
+    },
+    {
+      "id": "http://127.0.0.1:8000/contact/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/contact/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/about/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/about/"
+    },
+    {
+      "id": "http://127.0.0.1:8000/blog/",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/blog/"
+    },
+    {
+      "id": "https://www.djangoproject.com/",
+      "level": 1,
+      "name": "https://www.djangoproject.com/"
+    },
+    {
+      "id": "https://github.com/ndemo-richard/ndemo-master",
+      "level": 1,
+      "name": "https://github.com/ndemo-richard/ndemo-master"
+    },
+    {
+      "id": "https://www.facebook.com/codebomblast/",
+      "level": 1,
+      "name": "https://www.facebook.com/codebomblast/"
+    },
+    {
+      "id": "https://www.instagram.com/richard_ndemo/",
+      "level": 1,
+      "name": "https://www.instagram.com/richard_ndemo/"
+    },
+    {
+      "id": "https://github.com/ndemo-richard",
+      "level": 1,
+      "name": "https://github.com/ndemo-richard"
+    },
+    {
+      "id": "https://twitter.com/ndemorich",
+      "level": 1,
+      "name": "https://twitter.com/ndemorich"
+    },
+    {
+      "id": "https://www.linkedin.com/in/richard-ndemo/",
+      "level": 1,
+      "name": "https://www.linkedin.com/in/richard-ndemo/"
+    },
+    {
+      "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+      "level": 1,
+      "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+    },
+    {
+      "id": "http://127.0.0.1:8000/#top",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/#top"
+    }
+  ],
+  "id": "http://127.0.0.1:8000/",
+  "level": 0,
+  "name": "http://127.0.0.1:8000/"
+}
+          "level": 2,
+          "name": "http://127.0.0.1:8000/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/codehub/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/codehub/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/resume/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/resume/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/about/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/about/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/portfolio/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/portfolio/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/blog/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/blog/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/contact/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/contact/"
+        },
+        {
+          "id": "https://www.youtube.com/embed/Scxs7L0vhZ4",
+          "level": 2,
+          "name": "https://www.youtube.com/embed/Scxs7L0vhZ4"
+        },
+        {
+          "id": "http://127.0.0.1:8000/resume/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/resume/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/codehub/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/codehub/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/portfolio/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/portfolio/"
+        },
+        {
+          "id": "https://player.vimeo.com/video/358812209",
+          "level": 2,
+          "name": "https://player.vimeo.com/video/358812209"
+        },
+        {
+          "id": "http://127.0.0.1:8000/contact/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/contact/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/about/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/about/"
+        },
+        {
+          "id": "http://127.0.0.1:8000/blog/",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/blog/"
+        },
+        {
+          "id": "https://www.djangoproject.com/",
+          "level": 2,
+          "name": "https://www.djangoproject.com/"
+        },
+        {
+          "id": "https://github.com/ndemo-richard/ndemo-master",
+          "level": 2,
+          "name": "https://github.com/ndemo-richard/ndemo-master"
+        },
+        {
+          "id": "https://www.facebook.com/codebomblast/",
+          "level": 2,
+          "name": "https://www.facebook.com/codebomblast/"
+        },
+        {
+          "id": "https://www.instagram.com/richard_ndemo/",
+          "level": 2,
+          "name": "https://www.instagram.com/richard_ndemo/"
+        },
+        {
+          "id": "https://github.com/ndemo-richard",
+          "level": 2,
+          "name": "https://github.com/ndemo-richard"
+        },
+        {
+          "id": "https://twitter.com/ndemorich",
+          "level": 2,
+          "name": "https://twitter.com/ndemorich"
+        },
+        {
+          "id": "https://www.linkedin.com/in/richard-ndemo/",
+          "level": 2,
+          "name": "https://www.linkedin.com/in/richard-ndemo/"
+        },
+        {
+          "id": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?",
+          "level": 2,
+          "name": "https://www.youtube.com/channel/UCeQuUdrzNMcF4ec1ak6ZpUw?"
+        },
+        {
+          "id": "http://127.0.0.1:8000/#top",
+          "level": 2,
+          "name": "http://127.0.0.1:8000/#top"
+        }
+      ],
+      "id": "http://127.0.0.1:8000/#top",
+      "level": 1,
+      "name": "http://127.0.0.1:8000/#top"
+    }
+  ],
+  "id": "http://127.0.0.1:8000/",
+  "level": 0,
+  "name": "http://127.0.0.1:8000/"
+}

@@ -2,29 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from anytree import AnyNode, RenderTree
-from anytree.exporter import JsonExporter
+from anytree.exporter import UniqueDotExporter
 import requests
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
-list_done = []
-binary = r'C:\Program Files\Mozilla Firefox\firefox.exe'
-options = Options()
-options.set_headless(headless=True)
-options.binary = binary
-cap = DesiredCapabilities().FIREFOX
-cap["marionette"] = True
-exporter = JsonExporter(indent=2, sort_keys=True)
+from html_similarity import *
+
 driver = webdriver.Firefox(firefox_options=options, capabilities=cap, executable_path="geckodriver.exe")
 original_link = 'http://127.0.0.1:8000/'
 site_name = '127.0.0.1'
-driver.set_page_load_timeout(5)
-# class treeNode:
-    # def __init__(self, link, parent):
-        # self.parent = parent
-        # self.link = link
-        # self.childs = []
-    # def add_child(self, child):
-        # self.childs.append(child)
-        
+
 def get_next_links(link, tn, tn_root, level):
         #driver = webdriver.Firefox(firefox_options=options, capabilities=cap, executable_path="geckodriver.exe")
         
@@ -51,8 +36,7 @@ def get_next_links(link, tn, tn_root, level):
             next_link = list_links[i].get_attribute('href')
             tn_next = AnyNode(id=next_link, name=next_link, parent=tn, level = level)
             #tn.add_child(tn_next)
-            filehandle = open(site_name+".json", "w+")
-            exporter.write(tn_root, filehandle)
+            UniqueDotExporter(tn_root).to_dotfile(site_name+".dot")
             if next_link != '' and 'http' in next_link and not next_link in list_done and site_name in next_link:
                 print('van:', link, 'naar:',list_links[i].get_attribute('href'))
                 try:
